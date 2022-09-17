@@ -25,7 +25,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Flask][https://flask.palletsprojects.com/en/2.2.x/]][Flask-url]
 * [![Python][Python.org]][Python-url]
-* [![Flask-Alchemy][flask-sqlalchemy.palletsprojects.com/en/2.x/]][Flask-sqlalchemy-url]
+* [![Flask][Flask.com]][Flask-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![GoogleMaps API][GoogleMapsAPI.com]][GoogleMapsAPI-url]
@@ -63,3 +63,5 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [JQuery-url]: https://jquery.com 
 [GoogleMapsAPI.com]:https://img.shields.io/badge/-Google_Maps_API-red?style=for-the-badge&logo=googlemaps&style=for-the-badge
 [GoogleMapsAPI-url]:https://developers.google.com/maps
+[Flask.com]:https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&style=for-the-badge
+[Flask-url]:https://flask.palletsprojects.com/en/2.2.x/
