@@ -65,5 +65,5 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [GoogleMapsAPI-url]:https://developers.google.com/maps
 [Flask.com]:https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&style=for-the-badge
 [Flask-url]:https://flask.palletsprojects.com/en/2.2.x/
-[Python.com]:https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&style=for-the-badge&logoColor=FFFF2E
+[Python.org]:https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&style=for-the-badge&logoColor=FFFF2E
 [Python-url]:https://www.python.org/
