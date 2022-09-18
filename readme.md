@@ -23,12 +23,16 @@ The app has "Songs", "Playlist" and "PlaylistSong" tables.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Flask][https://flask.palletsprojects.com/en/2.2.x/]][Flask-url]
 * [![Python][Python.org]][Python-url]
 * [![Flask][Flask.com]][Flask-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![GoogleMaps API][GoogleMapsAPI.com]][GoogleMapsAPI-url]
+
+## License
+  
+  [![MIT License][License-img]][https://github.com/aycetiner/database-dj/blob/main/LICENSE]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -67,3 +71,4 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [Flask-url]:https://flask.palletsprojects.com/en/2.2.x/
 [Python.org]:https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&style=for-the-badge&logoColor=FFFF2E
 [Python-url]:https://www.python.org/
+[License-img]:https://img.shields.io/apm/l/l
