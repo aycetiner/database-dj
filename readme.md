@@ -13,21 +13,19 @@ To get this application running, make sure you do the following in the Terminal:
 
 ## Summary
 
-This app is a Mock Spotify which allows users to add "Songs" and create "Playlists". You can interact with other playlists and songs to see more details.
+This app is a Mock Spotify which allows users to add "Songs" and create "Playlists". The app has "Songs", "Playlist" and "PlaylistSong" tables. You can interact with other playlists and songs. To see more:
+
+<insert app link here>
+
+
+## Built With
 
 Built with Flask WTForms and SQL Alchemy additon to Python + Flask.
-
-The app has "Songs", "Playlist" and "PlaylistSong" tables.
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Python][Python.org]][Python-url]
 * [![Flask][Flask.com]][Flask-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![GoogleMaps API][GoogleMapsAPI.com]][GoogleMapsAPI-url]
 
 ## License
   
@@ -65,9 +63,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[GoogleMapsAPI.com]:https://img.shields.io/badge/-Google_Maps_API-red?style=for-the-badge&logo=googlemaps&style=for-the-badge
+[GoogleMapsAPI.com]:https://img.shields.io/badge/-Google_Maps_API-red?style=for-the-badge&logo=googlemaps
 [GoogleMapsAPI-url]:https://developers.google.com/maps
-[Flask.com]:https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&style=for-the-badge
+[Flask.com]:https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask
 [Flask-url]:https://flask.palletsprojects.com/en/2.2.x/
 [Python.org]:https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&style=for-the-badge&logoColor=FFFF2E
 [Python-url]:https://www.python.org/
