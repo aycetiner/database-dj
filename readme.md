@@ -70,6 +70,6 @@ Built with Flask WTForms and SQL Alchemy additon to Python + Flask.
 [Flask-url]:https://flask.palletsprojects.com/en/2.2.x/
 [Python.org]:https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFF2E
 [Python-url]:https://www.python.org/
-[Postgresql.org]:https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql
+[Postgresql.org]:https://img.shields.io/badge/-PostgreSQL-D3D3D3?style=for-the-badge&logo=postgresql
 [Postgresql-url]:https://www.postgresql.org/
 [License-img]:https://img.shields.io/apm/l/l
