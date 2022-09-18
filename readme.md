@@ -31,7 +31,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## License
   
-  [![MIT License][License-img]][https://github.com/aycetiner/database-dj/blob/main/LICENSE]
+  [![MIT License][License-img]](https://github.com/aycetiner/database-dj/blob/main/LICENSE)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
